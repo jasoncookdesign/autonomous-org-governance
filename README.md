@@ -83,11 +83,15 @@ Start here to understand the framework before customizing it:
 
 ## Getting Started
 
-### 1. Clone this repository
+### 1. Create your repository from this template
+
+Click **"Use this template"** → **"Create a new repository"** at the top of this page. This creates a clean copy in your own GitHub account with no fork relationship and a fresh commit history.
+
+Then clone your new repo locally:
 
 ```bash
-git clone https://github.com/your-org/autonomous-org-governance.git
-cd autonomous-org-governance
+git clone https://github.com/your-org/your-repo-name.git
+cd your-repo-name
 ```
 
 ### 2. Fill in the placeholders

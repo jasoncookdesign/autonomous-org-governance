@@ -4,6 +4,8 @@ A governance framework template for building constitutionally-defined, policy-go
 
 This repository provides a complete, ready-to-adapt governance structure for organizations where AI agents operate with real authority: writing code, managing information, drafting communications, analyzing finances, and producing creative work — all within explicit, auditable constraints that keep a human in final control.
 
+See a real-world instantiation of this template at [`autonomous-org-governance-reference`](https://github.com/jasoncookdesign/autonomous-org-governance-reference).
+
 ---
 
 ## What This Is
